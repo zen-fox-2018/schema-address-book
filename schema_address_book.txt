@@ -1,1 +1,4 @@
 Copy your URL to screenshot here
+https://imgur.com/k3ZIbja
+
+Dikatakan bahwa satu kontak dapat memiliki banyak group, vice versa. Maka hubungan kontak dengan group adalah many to many yang dihubungkan dengan conjunction table untuk mendapatkan uniqueId antara kontak dengan group.
