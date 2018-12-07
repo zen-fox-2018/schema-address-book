@@ -1,1 +1,4 @@
 Copy your URL to screenshot here
+https://imgur.com/a/FWQ5yhz
+
+secara umum kontak dan grup memiliki hubungan many-to-many. sehingga dibutuhkan conjunction table dimana hubungan antara nama dengan conjunction table dan grup dengn conjunction table adalah one-to-many.
