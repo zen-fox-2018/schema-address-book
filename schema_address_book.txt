@@ -1,1 +1,7 @@
 Copy your URL to screenshot here
+
+1. relasi Contacts dengan Groups adalah many to many, karena:
+    - 1 kontak dapat masuk kedalam banyak Groups.
+    - Groups memiliki banyak kontak.
+2. Karena hubungan antara Contacts dengan Groups adalah "many to many" maka dibutuhkan table conjunction
+   sebagai table penghubung, dimana Foreign Key merupakan ContactsId dan GroupsId
