@@ -1,1 +1,7 @@
-Copy your URL to screenshot here
+
+https://drive.google.com/open?id=1Wmnhmtslqf2HGnxDre5zuDtgbf_43ztJ
+
+1.Kontak memiliki nama, perusahaan, nomor telpon dan email. 
+2.Grup memiliki nama
+3.kontak memiliki relasi one-to-many dengan conjunction kontak-grup
+4.Grup memiliki relasi one-to-many dengan conjunction kontak-grup
