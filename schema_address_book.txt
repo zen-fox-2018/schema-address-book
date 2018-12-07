@@ -1,1 +1,7 @@
 Copy your URL to screenshot here
+https://ibb.co/rFpj27f
+
+KET:
+1. Contact memiliki field id, name, company, phoneNumber dan email.
+2. Group memiliki field id, groupName.
+2. Table Contact memiliki relasi many to many dikarenakan sebuah kontak bisa masuk kedalam beberapa group dan group memiliki banyak contact. Maka dari itu diperlukan sebuah conjunction table untuk mengakomodir kedua tabel tersebut.
