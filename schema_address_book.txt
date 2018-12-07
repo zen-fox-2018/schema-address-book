@@ -1,1 +1,5 @@
 Copy your URL to screenshot here
+https://i.imgur.com/n33cYIj.png
+
+Dalam desain address book ini, untuk menghubungkan antara kontak dan grup yang memiliki relasi Many-to-Many dibentuk satu table lagi khusus dengan nama tabel konjungsi dimana di dalam tabel konjungsi terjadi hubungan one-to-many antara PK id kontak dengan FK id kontak di dalam tabel konjungsi.
+Begitu juga dengan relasi antara tabel grup dengan tabel konjungsi yang juga hubungan one-to-many.
