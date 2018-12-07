@@ -1,1 +1,12 @@
-Copy your URL to screenshot here
+https://drive.google.com/file/d/1-00Thbg82k5FzrUeJnfaUjbD6U1HYIIm/view?usp=sharing
+
+Contacts memiliki nama, perusahaan, nomor telepon dan email, sedangnkan Groups memiliki nama
+Sebuah contact bisa masuk kedalam banyak group dan grup dapat memiliki banyak contact
+
+Sehingga dapat disimpulkan tabel Contacts dan tabel Groups memiliki relasi many to many
+sehingga kita membutuhkan table conjunction bernama ContactGroups, pada tabel ContactGroups
+yang memiliki Foreign Key untuk contactId dan groupId
+
+Hubungan tabel Contacts dan ContactGroups adalah one to many
+Hubungan tabel Groups dan ContactGroups adalah one to many
+Sehingga merepresentasikan hubungan many to many untuk tabel Contacts dan Groups
