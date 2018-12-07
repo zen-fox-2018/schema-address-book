@@ -1,1 +1,4 @@
 Copy your URL to screenshot here
+https://imgur.com/ibAbuyI
+
+tabel Contacts dengan Groups memiliki hubungan many to many, sehingga membutuhkan tabel baru sebagai tabel konjungsi
